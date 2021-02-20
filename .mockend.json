@@ -1,0 +1,12 @@
+{
+  "count": 1,
+  "categories": {
+    "id": 1,
+    "slug": "test",
+    "name": "New York",
+    "description": "John",
+    "parent": 0,
+    "count": 0
+  },
+  "status": "ok"
+}
