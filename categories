@@ -10,5 +10,6 @@
     "count": 0
   }},
   "status": "200",
-  "ok": "200"
+  "ok": "200",
+  "type": "FETCH_PRODUCTS_CATEGORIES"
 }
